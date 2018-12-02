@@ -26,4 +26,8 @@ public class User {
 	public int getAge() {
 		return this.age;
 	}
+	
+	public String getFirstName() {
+		return this.firstName;
+	}
 }

@@ -19,4 +19,15 @@ public class User {
 		this.lastName = lastName;
 	}
 	
+	public String getLastName() {
+		return this.lastName;
+	}
+	
+	public int getAge() {
+		return this.age;
+	}
+	
+	public String getFirstName() {
+		return this.firstName;
+	}
 }

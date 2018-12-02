@@ -22,4 +22,8 @@ public class User {
 	public String getLastName() {
 		return this.lastName;
 	}
+	
+	public int getAge() {
+		return this.age;
+	}
 }

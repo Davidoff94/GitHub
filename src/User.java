@@ -2,6 +2,8 @@
 public class User {
 	
 	private String firstName;
+	
+	private int age;
 
 	private String lastName;
 	

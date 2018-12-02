@@ -35,9 +35,4 @@ public class User {
 	//six
 	//seven
 	//eight
-	//six
-	//seven
-	//eight
-	//nine
-
 }

@@ -15,4 +15,8 @@ public class User {
 		this.age = age;
 	}
 	
+	public void setLastName(String lastName) {
+		this.lastName = lastName;
+	}
+	
 }
